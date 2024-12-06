@@ -1,7 +1,7 @@
 
 ## [From Zero To Hero] #1 Micrograd 
 
-This is a replica of the **Micrograd Project** by **karpathy**, **with some helpful Chinese comments and extended demos for better understanding.** For the video tutoril, please see https://www.youtube.com/watch?v=VMj-3S1tku0
+This is a  re-implementation of the **Micrograd Project** by **karpathy**, **with some helpful Chinese comments and extended demos for better understanding.** For the video tutoril, please see https://www.youtube.com/watch?v=VMj-3S1tku0
 
 Fundamentally, **the neural network(NN) are just mathematical expressions.** They take the input data and weights as input, with the mathematical expressions, the output is your predictions of your NN.
 
